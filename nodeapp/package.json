@@ -1,0 +1,13 @@
+{
+  "name": "nodeapp",
+  "version": "0.0.0",
+  "dependencies": {
+    "body-parser": "~1.12.4",
+    "ejs": "2.3.3",
+    "express": "~4.12.4",
+    "request": "^2.74.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.10.0"
+  }
+}
